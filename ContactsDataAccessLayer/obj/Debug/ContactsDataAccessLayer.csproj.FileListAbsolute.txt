@@ -1,0 +1,12 @@
+C:\Users\Acer\Dropbox\Personal\Advices\2021\18 ADO\Projects\ContactsDataAccessLayer\bin\Debug\ContactsDataAccessLayer.dll
+C:\Users\Acer\Dropbox\Personal\Advices\2021\18 ADO\Projects\ContactsDataAccessLayer\bin\Debug\ContactsDataAccessLayer.pdb
+C:\Users\Acer\Dropbox\Personal\Advices\2021\18 ADO\Projects\ContactsDataAccessLayer\obj\Debug\ContactsDataAccessLayer.csproj.AssemblyReference.cache
+C:\Users\Acer\Dropbox\Personal\Advices\2021\18 ADO\Projects\ContactsDataAccessLayer\obj\Debug\ContactsDataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\Acer\Dropbox\Personal\Advices\2021\18 ADO\Projects\ContactsDataAccessLayer\obj\Debug\ContactsDataAccessLayer.dll
+C:\Users\Acer\Dropbox\Personal\Advices\2021\18 ADO\Projects\ContactsDataAccessLayer\obj\Debug\ContactsDataAccessLayer.pdb
+D:\Abu Hadhoud courses\Database Connectivity with ADO.net\ContactsApp\ContactsDataAccessLayer\bin\Debug\ContactsDataAccessLayer.dll
+D:\Abu Hadhoud courses\Database Connectivity with ADO.net\ContactsApp\ContactsDataAccessLayer\bin\Debug\ContactsDataAccessLayer.pdb
+D:\Abu Hadhoud courses\Database Connectivity with ADO.net\ContactsApp\ContactsDataAccessLayer\obj\Debug\ContactsDataAccessLayer.csproj.AssemblyReference.cache
+D:\Abu Hadhoud courses\Database Connectivity with ADO.net\ContactsApp\ContactsDataAccessLayer\obj\Debug\ContactsDataAccessLayer.csproj.CoreCompileInputs.cache
+D:\Abu Hadhoud courses\Database Connectivity with ADO.net\ContactsApp\ContactsDataAccessLayer\obj\Debug\ContactsDataAccessLayer.dll
+D:\Abu Hadhoud courses\Database Connectivity with ADO.net\ContactsApp\ContactsDataAccessLayer\obj\Debug\ContactsDataAccessLayer.pdb
